@@ -1,7 +1,8 @@
 {
-  "name": "react-vite-tailwind",
+  "name": "equalizer",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Эквалайзер — локальный аудиоплеер с 10-полосным эквалайзером, визуализатором, текстами песен и звуковыми эффектами",
   "type": "module",
   "scripts": {
     "dev": "vite",
